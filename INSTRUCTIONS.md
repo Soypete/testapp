@@ -16,6 +16,8 @@ Note: Save the file as a .sql file.
 ## Networking Report
 Write a 1-2 paragraph summary of what happens between a browser and server when a web request is made. Go into as much detail as you want. Feel free to do research to understand how all of this works if you find gaps in your knowledge.
 
+
+
 ## Data Structures
 Write a 1 paragraph summary of 2 different data structures of your choosing. Give an example of when to use each type.
 
